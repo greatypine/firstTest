@@ -8,3 +8,5 @@ hello world!这是我的第一个测试项目，好好学习一下，哈哈！
 测试git tag
 
 测试git push origin tag 后，再git push origin master
+
+测试git tag 二次提交,git push origin tag ，再git push origin master
